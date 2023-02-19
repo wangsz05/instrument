@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="learn-agent-main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/learn_agent_main_jar</output-path>
+    <root id="archive" name="learn-agent-main.jar">
+      <element id="module-output" name="learn-agent-main" />
+      <element id="extracted-dir" path="D:/Program Files/Java/jdk1.8.0_321/lib/tools.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/01.maven/commons-lang/commons-lang/2.6/commons-lang-2.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="learn-module:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/learn_module_jar</output-path>
+    <root id="archive" name="learn-module.jar">
+      <element id="module-output" name="learn-module" />
+      <element id="extracted-dir" path="D:/01.maven/org/javassist/javassist/3.28.0-GA/javassist-3.28.0-GA.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/01.maven/commons-lang/commons-lang/2.6/commons-lang-2.6.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
